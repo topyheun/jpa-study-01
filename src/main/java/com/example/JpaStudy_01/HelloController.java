@@ -1,4 +1,4 @@
-package com.example.JpaStudy_01.controller;
+package com.example.JpaStudy_01;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
